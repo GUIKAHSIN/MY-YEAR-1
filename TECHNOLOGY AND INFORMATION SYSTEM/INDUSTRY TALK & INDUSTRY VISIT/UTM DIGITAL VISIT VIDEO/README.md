@@ -1,1 +1,1 @@
-[Video: ](https://youtu.be/SeHIOxAWqng)
+[Video: https://youtu.be/SeHIOxAWqng]
