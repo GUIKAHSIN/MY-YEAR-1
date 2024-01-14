@@ -1,4 +1,4 @@
-[Video: https://youtu.be/KqJsBg-bVsE]
+[Design Thinking Video: https://youtu.be/KqJsBg-bVsE]
 
 ## 💡Reflection
 <p align= "justify">
