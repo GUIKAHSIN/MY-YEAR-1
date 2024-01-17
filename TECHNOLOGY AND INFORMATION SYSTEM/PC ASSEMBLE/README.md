@@ -5,7 +5,7 @@ Through the process of disassembling and assembling a CPU, I gained valuable han
 
 <div align="center">
   <h3>-System Unit Before Assembly-</h3>
-  <img src="pc2.jpg" alt=" " width="400"/>
+  <img src="pc2.jpeg" alt=" " width="400"/>
 </div>
 </p>
 
